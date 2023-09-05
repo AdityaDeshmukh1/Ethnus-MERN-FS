@@ -1,0 +1,35 @@
+.sidenav a {
+    position: absolute;
+    left: -90px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 120px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+.sidenav a:hover {
+    left: 0;
+}
+
+#HTML {
+    top: 20px;
+    background-color: #04aa6d;
+}
+
+#CSS {
+    top: 80px;
+    background-color: #2196f3;
+}
+
+#JAVA {
+    top: 140px;
+    background-color: #f44336;
+}
+
+#BS {
+    top: 200px;
+    background-color: #555;
+}
