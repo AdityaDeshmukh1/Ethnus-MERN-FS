@@ -1,0 +1,29 @@
+div {
+    /* background-color: aquamarine; */
+    margin: auto;
+    width: 33%;
+}
+img {
+    display: block;
+    margin: auto;
+}
+
+#username, #password, #login{
+    width: 100%;
+}
+
+#login {
+    margin: auto;
+    padding: 5px 10px;
+    background-color: #4cb050;
+    color: white;
+    border: 0;
+}
+
+#cancel {
+    padding: 8px 16px;
+    background-color: rgb(243, 41, 41);
+    border: 0;
+    border-radius: 3px;
+    color: white;
+}
