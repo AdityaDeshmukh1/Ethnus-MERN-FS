@@ -1,0 +1,20 @@
+form {
+    background-color: #75203f;
+    width: 33%;
+    color: white;
+    padding: 20px;
+    border-top: 25px solid #a22b55;
+    border-bottom: 25px solid #a22b55;
+    border-left: 100px solid #a22b55;
+    border-right: 100px solid #a22b55;
+    margin: auto;
+}
+
+input[type=submit] {
+    padding: 10px;
+    margin: auto;
+}
+
+#about {
+    padding: 35px;
+}
